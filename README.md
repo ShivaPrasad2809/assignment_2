@@ -6,8 +6,8 @@
 ---
 
 ## Mandatory Submission Links
-1. **GitHub Repository Link:** `<INSERT_YOUR_GITHUB_REPOSITORY_URL_HERE>`
-2. **Live Streamlit App Link:** `<INSERT_YOUR_STREAMLIT_CLOUD_APP_URL_HERE>`
+1. **GitHub Repository Link:** `https://github.com/ShivaPrasad2809/assignment_2`
+2. **Live Streamlit App Link:** `https://assignment2-9xyjfcmnyreaj2s562mznq.streamlit.app/`
 
 ---
 
