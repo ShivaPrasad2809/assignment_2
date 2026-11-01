@@ -1,0 +1,5 @@
+raw_hydraulic_data/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+venv/
