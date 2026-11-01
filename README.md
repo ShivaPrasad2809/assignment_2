@@ -6,9 +6,8 @@
 ---
 
 ## Mandatory Submission Links
-1. **GitHub Repository Link:** `https://github.com/ShivaPrasad2809/assignment_2`
-2. **Live Streamlit App Link:** `https://assignment2-9xyjfcmnyreaj2s562mznq.streamlit.app/`
-
+1. **GitHub Repository Link:** [GitHub Repository](https://github.com/ShivaPrasad2809/assignment_2)
+2. **Live Streamlit App Link:** [Live Streamlit App](https://assignment2-9xyjfcmnyreaj2s562mznq.streamlit.app/)
 ---
 
 ## a. Problem Statement
