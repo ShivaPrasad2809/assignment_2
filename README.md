@@ -43,8 +43,8 @@ To capture both baseline operating points and non-stationary transient spikes wi
 ---
 
 ## c. GitHub Repository Link & Structure
-* **GitHub Repository URL:** `<INSERT_YOUR_GITHUB_REPOSITORY_URL_HERE>`
-* **Live Streamlit Cloud URL:** `<INSERT_YOUR_STREAMLIT_CLOUD_APP_URL_HERE>`
+1. **GitHub Repository Link:** [GitHub Repository](https://github.com/ShivaPrasad2809/assignment_2)
+2. **Live Streamlit App Link:** [Live Streamlit App](https://assignment2-9xyjfcmnyreaj2s562mznq.streamlit.app/)
 
 ### Repository File Structure
 * `app.py` — Interactive Streamlit web application for model evaluation on holdout/uploaded test data
